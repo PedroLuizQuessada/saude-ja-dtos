@@ -5,5 +5,6 @@ public enum TipoUsuarioEnum {
     MEDICO,
     ENFERMEIRO,
     AGENTE_COMUNITARIO,
+    GERENTE,
     PACIENTE
 }
